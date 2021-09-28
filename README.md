@@ -1,8 +1,17 @@
 # ML-link-list 🌟
 List of links to interesting ML stuff
 
+## Reinforcement learning
+* Using PettingZoo with RLlib for Multi-Agent Deep Reinforcement Learning - [link](https://towardsdatascience.com/using-pettingzoo-with-rllib-for-multi-agent-deep-reinforcement-learning-5ff47c677abd).
+
+> Article describes Loren ipsum dolor.. ![alt text](https://miro.medium.com/max/2100/0*ZBS0do1EE3ayKGk-.gif)
+
+* Next link - [link](link)
+
+> Description
+
 ## Tensorflow
-Loren ipsum
+* ren ipsum
 Tags: `colab`, `example`
 
 ## Pytorch
